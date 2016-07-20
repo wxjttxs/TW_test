@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guessNumberTest.GetHiddenNumberTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-07-09T06:19:33" hostname="Wxj-pc" time="0.036">
+  <properties/>
+  <testcase name="should_get_1234_when_generator_give_1234" classname="guessNumberTest.GetHiddenNumberTest" time="0.007"/>
+  <testcase name="should_get_0123_when_generator_give_123" classname="guessNumberTest.GetHiddenNumberTest" time="0.013"/>
+  <testcase name="should_have_no_duplicates" classname="guessNumberTest.GetHiddenNumberTest" time="0.001"/>
+  <testcase name="should_be_of_length_4" classname="guessNumberTest.GetHiddenNumberTest" time="0.003"/>
+  <testcase name="should_get_random_number_with_nextIntLimit_10000" classname="guessNumberTest.GetHiddenNumberTest" time="0.003"/>
+  <testcase name="should_get_1234_when_generator_give_0_1234" classname="guessNumberTest.GetHiddenNumberTest" time="0.002"/>
+  <testcase name="should_get_1234_when_generator_give_1111_1234" classname="guessNumberTest.GetHiddenNumberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

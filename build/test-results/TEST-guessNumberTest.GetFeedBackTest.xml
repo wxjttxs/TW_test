@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guessNumberTest.GetFeedBackTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2016-07-09T06:19:33" hostname="Wxj-pc" time="0.01">
+  <properties/>
+  <testcase name="should_return_4A0B_when_input_is_1234_1234" classname="guessNumberTest.GetFeedBackTest" time="0.004"/>
+  <testcase name="should_return_3A0B_when_input_is_1234_5234" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_2A0B_when_input_is_1234_1278" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_2A0B_when_input_is_1234_5634" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_1A0B_when_input_is_1234_1678" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_0A0B_when_input_is_1234_5678" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_0A1B_when_input_is_1234_5178" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_0A2B_when_input_is_1234_5128" classname="guessNumberTest.GetFeedBackTest" time="0.001"/>
+  <testcase name="should_return_0A2B_when_input_is_1234_5623" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_0A3B_when_input_is_1234_4623" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <testcase name="should_return_0A4B_when_input_is_1234_4123" classname="guessNumberTest.GetFeedBackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
